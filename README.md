@@ -22,6 +22,10 @@ Were you able to achieve the target model performance?
 
 - The Accuracy of the first model is 72.34%. Hence the model did not achieve the intended performace level. 
 
+![alt text](https://github.com/Yoditatr/Neural_Network_Charity_Analysis/blob/main/Resources/fit.PNG?raw=true)
+
 ## Summary 
 
 Overall, the model was unsuccessful in achieving the 75% target predictive accuracy. With an initial accuracy of 72.34% and a second optimization of 71.8%. The next step could be looking into the dataset to figure out if there are any outliers. 
+
+![alt text](https://github.com/Yoditatr/Neural_Network_Charity_Analysis/blob/main/Resources/optimization.PNG?raw=true)
