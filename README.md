@@ -30,6 +30,6 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
 ## Summary 
 
-Overall, the model was unsuccessful in achieving the 75% target predictive accuracy. With an initial accuracy of 72.34% and a second optimization of 71.8%. The next step could be looking into the dataset to figure out if there are any outliers. 
+Overall, the model was unsuccessful in achieving the 75% target predictive accuracy, even after a couple of attemps, with an initial accuracy of 72.34%. The next step could be looking into the dataset to figure out if there are any outliers. 
 
 ![alt text](https://github.com/Yoditatr/Neural_Network_Charity_Analysis/blob/main/Resources/optimization.PNG?raw=true)
