@@ -16,7 +16,7 @@ With the abilities of machine learning and neural networks, we will use the feat
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
-- For the first attempt at this the model, we considered 8 neurons in the first layer and 5 in the second, they both had a 'relu' activation function, since relu does a good job with nonlinear data, and the output layer had a sigmoid activation function since the outcome is binary in this case (successful or not successful)
+For the first run of the model, we chose two hidden layers with 80 and 30 nodes respectively. They had a ReLU activation function, since relu does a good job with nonlinear data and sigmoid activation function is ideal for binary classification since its values are normalized to a probablility between 0 and 1.
 
 Were you able to achieve the target model performance?
 
