@@ -22,6 +22,10 @@ Were you able to achieve the target model performance?
 
 - The Accuracy of the first model is 72.34%. Hence the model did not achieve the intended performace level. 
 
+![alt text](https://github.com/Yoditatr/Neural_Network_Charity_Analysis/blob/main/Resources/train.PNG?raw=true)
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
 ![alt text](https://github.com/Yoditatr/Neural_Network_Charity_Analysis/blob/main/Resources/fit.PNG?raw=true)
 
 ## Summary 
